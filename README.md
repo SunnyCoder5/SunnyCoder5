@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariia</h1>
-<h3 align="center">A passionate frontend developer from Israel. I’m looking for internship or participating in different projects as HTML/CSS developer</h3>
+<h3 align="center">A passionate frontend developer from Israel. I’m looking for internship or participating in different projects as Javascript/React.js developer</h3>
 
-- 🌱 I’ve finished the course **Fullstack development at TripleTen**
+- 🌱 I’ve finished **Fullstack development course at TripleTen**
 
 - 📫 How to reach me **masterova260989@gmail.com**
 
